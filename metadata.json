@@ -1,0 +1,6 @@
+{
+  "name": "Taqwa Motors",
+  "description": "Premium Reconditioned Car Dealership - Drive Your Dream",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
